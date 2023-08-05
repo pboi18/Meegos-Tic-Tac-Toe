@@ -75,7 +75,7 @@ export const CollumnCell = styled.div<CollumnCell>`
   box-shadow: inset 0 -8px 0 0 #10212A;
   display: grid;
   flex-basis: 100%;
-  height: 100%;
+  height: 80%;
   padding-bottom: ${rem(8)};
   place-content: center;
   width: 100%;
