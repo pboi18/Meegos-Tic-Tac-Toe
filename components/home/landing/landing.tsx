@@ -896,7 +896,7 @@ const LandingUi = () =>{
                 player)
               </span>
           </Button>
-          <Button
+          {/* <Button
             type="submit"
             id="online"
             onClick={handleModeChoose}
@@ -907,7 +907,7 @@ const LandingUi = () =>{
                 <SrOnly>versus</SrOnly>
                 online)
               </span>
-          </Button>
+          </Button> */}
         </ModeWrapper>
       </Form>      
     </Wrapper>
